@@ -1,4 +1,4 @@
-public class 1to11 {
+public class set001 {
 
 	public static void problem1() {
 		int count = 0;
